@@ -4,17 +4,9 @@
 
 Hi! I’m currently a software engineer in the Bay Area. As a minority in the tech field, I have a commitment to tackling diversity and inclusion, and I’m working towards surrounding myself with people who sees the importance of this as well.
 I recently graduated from Brown University with a double concentration in Computer Science and Applied Mathematics, all while being a varsity athlete.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+<!--
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -36,3 +28,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
