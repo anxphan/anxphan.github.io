@@ -1,6 +1,6 @@
 ## Hi, I'm An
 
-<!-- You can use the [editor on GitHub](https://github.com/anxphan/anxphan.github.io/An_s_CV_July_2020.pdf) to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
+<!-- You can use the [editor on GitHub](https://github.com/anxphan/anxphan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 Hi! I’m currently a software engineer in the Bay Area. As a minority in the tech field, I have a commitment to tackling diversity and inclusion, and I’m working towards surrounding myself with people who sees the importance of this as well.
 I recently graduated from Brown University with a double concentration in Computer Science and Applied Mathematics, all while being a varsity athlete.
